@@ -1,5 +1,5 @@
 # estudos #
-Repositório para estudos
+Repositório de estudos completo para desenvolvimento Web.
 
 - -- MÓDULOS -- -
 1-HTML
